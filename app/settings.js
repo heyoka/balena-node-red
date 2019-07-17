@@ -189,21 +189,21 @@ module.exports = {
     //paletteCategories: ['subflows', 'input', 'output', 'function', 'social', 'mobile', 'storage', 'analysis', 'advanced'],
     editorTheme: {
         page: {
-            title: "resin.io Node-RED",
-            favicon: "/usr/src/app/assets/favicon.ico"
+            title: "TGW Node-RED",
+            favicon: "/usr/src/app/assets/tgw_favicon.ico"
         },
         header: {
-            title: "resin.io Node-RED",
-            image: "/usr/src/app/assets/resin_logo.png", // or null to remove image
-            url: "https://resin.io"
+            title: "TGW Node-RED",
+            image: "/usr/src/app/assets/tgw_logo.png", // or null to remove image
+            url: "https://tgw-group.com"
         },
         deployButton: {
             type: "simple",
             label: "Deploy",
-            icon: "/usr/src/app/assets/favicon.ico" // or null to remove image
+            icon: "/usr/src/app/assets/tgw_favicon.ico" // or null to remove image
         },
         login: {
-            image: "/usr/src/app/assets/resin_logo.png" // a 256x256 image
+            image: "/usr/src/app/assets/tgw_logo.png" // a 256x256 image
         }
     },
     // Configure the logging output
